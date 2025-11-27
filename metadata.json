@@ -1,0 +1,5 @@
+{
+  "name": "Click2Chatt AI Receptionist",
+  "description": "An intelligent, context-aware AI receptionist for local service businesses using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
